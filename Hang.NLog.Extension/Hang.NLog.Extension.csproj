@@ -3,6 +3,9 @@
   <PropertyGroup>
     <TargetFrameworks>net40;netstandard2.0;</TargetFrameworks>
     <Authors>Hang</Authors>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>SignAssembly.pfx</AssemblyOriginatorKeyFile>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
